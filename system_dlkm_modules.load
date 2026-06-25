@@ -2,6 +2,7 @@ gzvm.ko
 kheaders.ko
 libarc4.ko
 virtio_pci_modern_dev.ko
+virtio_pci_legacy_dev.ko
 virtio_pci.ko
 virtio_balloon.ko
 cctrng.ko
@@ -45,6 +46,7 @@ btbcm.ko
 btqca.ko
 8021q.ko
 vmw_vsock_virtio_transport.ko
+tls.ko
 can.ko
 can-raw.ko
 can-bcm.ko
