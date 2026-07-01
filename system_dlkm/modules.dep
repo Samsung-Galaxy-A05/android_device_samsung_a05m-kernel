@@ -26,7 +26,6 @@
 /system/lib/modules/8021q.ko:
 /system/lib/modules/ppp_mppe.ko: /system/lib/modules/libarc4.ko /system/lib/modules/ppp_generic.ko /system/lib/modules/slhc.ko
 /system/lib/modules/cctrng.ko:
-/system/lib/modules/tls.ko:
 /system/lib/modules/nhc_fragment.ko: /system/lib/modules/6lowpan.ko
 /system/lib/modules/6lowpan.ko:
 /system/lib/modules/cdc_eem.ko: /system/lib/modules/usbnet.ko /system/lib/modules/mii.ko
